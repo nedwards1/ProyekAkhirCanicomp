@@ -1,0 +1,5 @@
+This is a simulation game made with python. It is also made possible with the PYGAME and the PYMUNK library.
+
+** PYGAME download: https://pypi.org/project/pygame/
+
+** PYMUNK download: https://pypi.org/project/pymunk/
